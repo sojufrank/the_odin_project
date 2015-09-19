@@ -1,0 +1,11 @@
+td{
+    height: 25px;
+    width:25px;
+    background-color:blue;
+    outline:2px solid violet;
+    float:left;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 3px;
+    margin-bottom: 3px; 
+}
